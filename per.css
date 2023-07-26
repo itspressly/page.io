@@ -1,0 +1,290 @@
+
+body{
+    background-color: rgb(49, 49, 49);
+    font-family: 'Belanosima', sans-serif;
+font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+.MySQL{
+    width: 100px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.first-sq{
+    background-color: rgb(42, 43, 43);
+    width: 300px;
+    border-radius: 19px;
+    height: 15px;
+}
+
+.Photoshop{
+    width: 280px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.jQuery{
+    width: 210px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.HTML5{
+    width: 260px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.CSS3{
+    width: 240px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.Wordpress{
+    width: 175px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.PHP{
+    width: 190px;
+    height: 15px;
+    background-color: rgb(49, 255, 49);
+    border-radius: 19px;
+}
+
+.MySQL11{
+    color: white;
+    text-align: end;
+}
+
+.jave-script-section{
+    padding: 30px;
+    height: 130px;
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+
+.both-sections{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: rgb(49, 49, 49);
+    height: 700px;
+    width: 1338px;
+    margin: 0%; 
+    
+}
+
+
+
+#green{
+    color: green;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    background-color: rgb(36, 36, 36);
+    width: 100%;
+    top: 0%;
+    text-size-adjust: 10px;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.infor-section{
+    display: block;
+    display: flexbox;
+    box-shadow: 0 0 solid black;
+    background-color: black;
+    color: gray;
+font-size: smaller;
+width: 4000px;
+ 
+}
+
+.paragraph{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+
+
+.text-section{
+    background-color: rgb(49, 49, 49);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 5000px;
+}
+
+
+
+.first-words{
+    border-style: solid;
+    padding: 10px;
+    color: rgb(54, 228, 54);
+    display: block;
+    position: absolute;
+    width: 300px;
+    text-align: end;
+}
+
+.last-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 310px;
+    height: 150px;
+    
+}
+
+.first-page{
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    padding: 20px;
+    width: 310px;
+    height: 150px;
+
+}
+
+.second-words{
+    text-align: end;
+    display: block;
+    padding: 10px;
+    align-items: center;
+    position: absolute;
+    width: 300px;
+    border-style: solid;
+    color: antiquewhite;
+}
+
+
+
+.ABOUT{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.links{
+    
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.MORE{
+    
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.HAVE-A-QUASTION{
+
+    
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+h3{
+    color: white;
+}
+
+.final-section{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#first-par{
+    text-align: center;
+}
+
+.pic-top{ 
+    
+    background-image: url(Screenshot_20230724_220925_com.canva.editor_edit_1230609252147118.jpg);
+    background-size: cover;
+      background-repeat: no-repeat;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pic-top h1{
+    color: white;
+}
+
+.this-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#pic-1top{
+    
+    
+    width: 175px;
+    height: 110px;
+}
+
+#Li{
+    width: 100px;
+}
+
+#h1{
+    font-size: smaller;
+}
+
+
+
+a:hover{
+    background-color: rgb(67, 228, 220);
+}
+
+li{
+    float: left;
+    color: rgb(204, 13, 13);
+}
